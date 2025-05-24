@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "status": "active",
+    "name": "Alice Green",
+    "location": "Portland, OR",
+    "specialty": "Organic vegetable gardening",
+    "experience": "8 years",
+    "shared_tips": 12,
+    "image": "https://i.ibb.co/Gv3DNPZg/images-6.jpg"
+  },
+  {
+    "id": 2,
+    "status": "unactive",
+    "name": "Mark Bloom",
+    "location": "Austin, TX",
+    "specialty": "Succulent and drought-tolerant plants",
+    "experience": "5 years",
+    "shared_tips": 8,
+    "image": "https://i.ibb.co/GQjwYy09/images-5.jpg"
+  },
+  {
+    "id": 3,
+    "status": "active",
+    "name": "Sara Oakley",
+    "location": "Denver, CO",
+    "specialty": "Urban balcony gardening",
+    "experience": "4 years",
+    "shared_tips": 15,
+    "image": "https://i.ibb.co/chbdgNyZ/images-4.jpg"
+  },
+  {
+    "id": 4,
+    "status": "unactive",
+    "name": "Tom Rivera",
+    "location": "Miami, FL",
+    "specialty": "Tropical fruit trees",
+    "experience": "10 years",
+    "shared_tips": 20,
+    "image": "https://i.ibb.co/RTJtCMD3/images-3.jpg"
+  },
+  {
+    "id": 5,
+    "status": "active",
+    "name": "Linda Woods",
+    "location": "Seattle, WA",
+    "specialty": "Perennial flower beds",
+    "experience": "6 years",
+    "shared_tips": 10,
+    "image": "https://i.ibb.co/G3WDFwCc/gardener.jpg"
+  },
+  {
+    "id": 6,
+    "status": "active",
+    "name": "James Lee",
+    "location": "San Francisco, CA",
+    "specialty": "Rooftop vegetable gardens",
+    "experience": "7 years",
+    "shared_tips": 18,
+    "image": "https://i.ibb.co/Swmqx95K/16529715326286580cf0f17-gardener-1-1.webp"
+  },
+  {
+    "id": 7,
+    "status": "unactive",
+    "name": "Rita Patel",
+    "location": "Chicago, IL",
+    "specialty": "Indoor plants and hydroponics",
+    "experience": "5 years",
+    "shared_tips": 9,
+    "image": "https://i.ibb.co/1tDyPkZ4/gardener-planting-seeds-stockcake.jpg"
+  },
+  {
+    "id": 8,
+    "status": "active",
+    "name": "Carlos Mendez",
+    "location": "Phoenix, AZ",
+    "specialty": "Desert landscaping",
+    "experience": "9 years",
+    "shared_tips": 13,
+    "image": "https://i.ibb.co/s9b89C1j/images-2.jpg"
+  },
+  {
+    "id": 9,
+    "status": "unactive",
+    "name": "Emma Johnson",
+    "location": "Boston, MA",
+    "specialty": "Herb gardening",
+    "experience": "3 years",
+    "shared_tips": 6,
+    "image": "https://i.ibb.co/W4w8JtPq/images-1.jpg"
+  },
+  {
+    "id": 10,
+    "status": "active",
+    "name": "Noah White",
+    "location": "Atlanta, GA",
+    "specialty": "Lawn care and maintenance",
+    "experience": "11 years",
+    "shared_tips": 22,
+    "image": "https://i.ibb.co/G4P4W3bp/images.jpg"
+  }
+]
