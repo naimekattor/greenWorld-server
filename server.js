@@ -69,7 +69,12 @@ async function run() {
       const updatedData = req.body;
       const tipId = req.params.id;
       const query = { _id: new ObjectId(tipId) };
-      const result = await database.updateOne(query, updatedData);
+      const update = {
+        $set: {
+          updatedData,
+        },
+      };
+      const result = await database.updateOne(query, update);
       res.send(result);
     });
 
