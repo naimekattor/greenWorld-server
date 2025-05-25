@@ -65,6 +65,13 @@ async function run() {
       const result = await database.deleteOne(query);
       res.send(result);
     });
+    app.put("/share-tip/:id", async (req, res) => {
+      const updatedData = req.body;
+      const tipId = req.params.id;
+      const query = { _id: new ObjectId(tipId) };
+      const result = await database.updateOne(query, updatedData);
+      res.send(result);
+    });
 
     // Send a ping to confirm a successful connection
     await client.db("admin").command({ ping: 1 });
