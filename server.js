@@ -59,7 +59,7 @@ async function run() {
       //console.log(formData);
     });
 
-    app.delete("/tip/:id", async (req, res) => {
+    app.delete("/tips/:id", async (req, res) => {
       const tipId = req.params.id;
       const query = { _id: new ObjectId(tipId) };
       const result = await database.deleteOne(query);
